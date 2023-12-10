@@ -70,3 +70,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Specifically ignore the com.unity.burst package in Library/PackageCache
+/[Ll]ibrary/[Pp]ackage[Cc]ache/com.unity.burst@*/
